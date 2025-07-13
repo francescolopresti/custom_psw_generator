@@ -26,6 +26,7 @@ A secure and customizable password generator with graphical interface, featuring
   - Regenerate button
 
 ## 🖥️ Screenshot
+![Password Generator Interface](screenshot_1.png) *Example interface*
 ![Password Generator Interface](screenshot.png) *Example interface*
 
 ## 🚀 Quick Start
