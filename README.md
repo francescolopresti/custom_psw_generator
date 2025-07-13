@@ -1,4 +1,35 @@
-# Custom Password Generator
-Customizable password generator with GUI and the following features:  Slider to select the length from 6 to 25 characters Checkbox to include/exclude:  Symbols (!@#$%^&amp;*) Special characters ({}[]|:;"'&lt;>,.?/) Numbers (0-9)  Security indicator that evaluates password strength Copy button to copy the password to the clipboard Delete button to clear the field.
+# 🔒 Custom Password Generator
 
-Before execute run: pip install pyperclip
+A secure and customizable password generator with graphical interface, featuring real-time strength evaluation and clipboard support.
+
+## ✨ Features
+
+- **Password Length Control**
+  - Adjustable slider (6-25 characters)
+  - Visual length indicator
+
+- **Character Customization**
+  - [x] Uppercase letters (A-Z)
+  - [x] Lowercase letters (a-z)
+  - [x] Numbers (0-9)
+  - [x] Symbols (!@#$%^&*)
+  - [x] Special characters ({}[]|:;"'<>,.?/)
+
+- **Security Tools**
+  - Real-time strength meter (Weak/Medium/Strong)
+  - Password complexity evaluation
+  - Copy protection warning
+
+- **Convenience Functions**
+  - One-click copy to clipboard
+  - Clear field button
+  - Regenerate button
+
+## 🖥️ Screenshot
+![Password Generator Interface](screenshot.png) *Example interface*
+
+## 🚀 Quick Start
+
+1. Install dependencies:
+```bash
+pip install pyperclip
