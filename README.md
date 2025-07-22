@@ -25,10 +25,6 @@ A secure and customizable password generator with graphical interface, featuring
   - Clear field button
   - Regenerate button
 
-## 🖥️ Screenshot
-Select folder to order and execute:
-![Password Generator Interface](screenshot_1.png) 
-![Password Generator Interface](screenshot.png) 
 ## 🚀 Quick Start
 
 1. Install dependencies:
