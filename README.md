@@ -25,6 +25,16 @@ A secure and customizable password generator with graphical interface, featuring
   - Clear field button
   - Regenerate button
 
+## 🖥️ Screenshot
+Execute and click Genera Password:
+![Password Generator Interface](screenshot_2.png) 
+The password generated is hidden press the green button "Copia":
+![Password Generator Interface](screenshot_3.png) 
+Paste your hidden password where you prefer:
+![Password Generator Interface](screenshot_4.png) 
+
+Enjoy :)
+
 ## 🚀 Quick Start
 
 1. Install dependencies:
