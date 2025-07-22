@@ -28,8 +28,10 @@ A secure and customizable password generator with graphical interface, featuring
 ## 🖥️ Screenshot
 Execute and click Genera Password:
 ![Password Generator Interface](screenshoot_2.png) 
+
 The password generated is hidden press the green button "Copia":
 ![Password Generator Interface](screenshoot_3.png) 
+
 Paste your hidden password where you prefer:
 ![Password Generator Interface](screenshoot_4.png) 
 
